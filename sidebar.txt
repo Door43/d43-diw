@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[diw:home|Door43 (diw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-diw|d43-diw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-diw/archive/master.zip|d43-diw.zip]]
+
+**Recent Changes**
+{{changes>ns = diw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/diw|Ethnologue data]]
+
